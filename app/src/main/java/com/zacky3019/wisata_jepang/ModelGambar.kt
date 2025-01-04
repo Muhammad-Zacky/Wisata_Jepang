@@ -1,4 +1,4 @@
-package com.dzaki_aryavega.wisata_jepang
+package com.zacky3019.wisata_jepang
 
 import android.os.Parcel
 import android.os.Parcelable

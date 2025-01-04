@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.dzaki_aryavega.wisata_jepang"
+    namespace = "zacky3019.wisata_jepang"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.dzaki_aryavega.wisata_jepang"
+        applicationId = "zacky3019.wisata_jepang"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

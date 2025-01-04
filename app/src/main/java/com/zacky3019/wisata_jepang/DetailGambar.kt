@@ -1,4 +1,4 @@
-package com.dzaki_aryavega.wisata_jepang
+package com.zacky3019.wisata_jepang
 
 import android.os.Bundle
 import android.widget.ImageView
